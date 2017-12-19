@@ -43,7 +43,7 @@ h2.section-title,
 	font-size: 30px;
 	font-weight: 400;
 	color: #f95353;
-	margin-top: 115px;
+	margin-top: 50px;
 }
 
 .title-content > .subtitle,
@@ -59,7 +59,7 @@ h2.section-title,
 }
 
 .title-content p {
-	margin-top: 50px;
+	margin: 50px 0 50px;
 }
 
 h4, .h4 {
@@ -235,11 +235,11 @@ NAVIGATION
 
 #main-navigation .navbar-brand {
 	height: 85px;
-	padding: 26px 25px 26px;
+	padding: 18px 25px 26px;
 }
 
 #main-navigation .navbar-brand img {
-	max-height: 33px;
+	max-height: 50px;
 }
 
 .navbar-default .navbar-nav>li>a {
@@ -456,8 +456,9 @@ HOME SECTION
 }
 
 .carousel-caption p {
-	max-width: 500px;
+	max-width: 700px;
 	margin: 52px auto 0;
+	font-size: 22px;
 }
 
 .carousel-caption .btn-default {
@@ -564,6 +565,7 @@ SERVICES SECTION
 
 #services .service p {
 	margin-top: 25px;
+	height: 60px;
 	line-height: 1.5;
 	-moz-transition: all 0.3s ease-in-out;
 	-webkit-transition: all 0.3s ease-in-out;
